@@ -1,0 +1,14 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>targeting</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-163 29)">
+<g id="targeting">
+<g id="targeting">
+<use xlink:href="#path0_fill" transform="translate(163 -29)" fill="#707689"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 11.751C 0 5.271 5.23801 0 11.718 0C 18.232 0 23.469 5.271 23.469 11.751C 23.469 18.232 18.232 23.469 11.718 23.469C 5.23801 23.469 0 18.232 0 11.751ZM 3.895 11.752C 3.895 16.05 7.42101 19.574 11.718 19.574C 16.049 19.574 19.541 16.049 19.541 11.752C 19.541 7.421 16.049 3.929 11.718 3.929C 7.42101 3.929 3.895 7.421 3.895 11.752ZM 8.095 11.755C 8.095 9.741 9.74001 8.129 11.721 8.129C 13.734 8.129 15.345 9.74 15.345 11.755C 15.345 13.734 13.735 15.379 11.721 15.379C 9.74001 15.379 8.095 13.735 8.095 11.755Z"/>
+</defs>
+</svg>

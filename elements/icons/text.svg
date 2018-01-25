@@ -1,0 +1,17 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>text</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(189 -99)">
+<rect x="-189" y="99" width="24" height="24" fill="#E5E5E5"/>
+<g id="text">
+<g id="text">
+<use xlink:href="#path0_fill" transform="translate(-185 101)" fill="#707689"/>
+<use xlink:href="#path1_fill" transform="translate(-185 101)" fill="#707689"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 1C 0 0.447716 0.447708 0 1 0L 7 0L 9 0L 15 0C 15.5523 0 16 0.447716 16 1L 16 2L 16 3C 16 3.55228 15.5523 4 15 4C 14.4477 4 14 3.55228 14 3L 14 2L 9 2L 9 16C 9 16.5523 8.55228 17 8 17C 7.44771 17 7 16.5523 7 16L 7 2L 2 2L 2 3C 2 3.55228 1.55228 4 1 4C 0.447708 4 0 3.55228 0 3L 0 2L 0 1Z"/>
+<path id="path1_fill" d="M 0 19C 0 18.4477 0.447708 18 1 18L 15 18C 15.5523 18 16 18.4477 16 19C 16 19.5523 15.5523 20 15 20L 1 20C 0.447708 20 0 19.5523 0 19Z"/>
+</defs>
+</svg>

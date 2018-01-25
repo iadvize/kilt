@@ -1,0 +1,142 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+ <head>
+  <meta charset="UTF-8">
+   <link rel="stylesheet" href="../css/kilt.css">
+   <link rel="icon" href="../elements/favicon.png">
+   <title> iAdvize — Design System </title>
+   <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+   <script src="js/jribbble.js"></script>
+  <script type="text/javascript">
+      function success(apiResponse) {
+      };
+
+      function error(jqxhr) {
+      };
+      $.jribbble.setToken('3e510ce33d257802a0ce70052f1aca78d241267aafe3230a7651853a797574f4');
+      $.jribbble.shots().then(success, error);
+  </script>
+ </head>
+<body>
+
+<div class="menu-top">
+  <nav class="header">
+       <a href="index.html"><img class="logo" src="elements/mini-logo-kilt.svg" alt="logo"/></a>
+        <ul>
+          <li class="menu"><a href="/visual">Visuals</a></li>
+          <!-- <li class="menu"><a href="/language">Tone of voice</a></li> -->
+          <li class="menu"><a href="/illustrations">Illustrations</a></li>
+          <li class="menu"><a href="/layout">Method</a></li>
+<!--           <li class="menu"><a class="" href="selection-box.html">Components</a></li>
+ -->          <li class="menu"><a href="/ressources">Ressources</a></li>
+        </ul>
+  </nav>
+</div>
+
+<div class="top">
+  <div class="main-content-homepage">
+    <img class="illu-top" src="elements/illu_kilt_top.svg" alt="">
+    <h1 class="title">Kilt</h1>
+    <h4>iAdvize's design system kit</h4>
+  </div>
+</div>
+<div class="content">
+  <div class="main-content-homepage">
+       <h5 class="sumup">Over the years, we've been working to develop the interface you see and use everyday. We hope assembling and documenting our most common patterns will improve our users’ experience, strengthen consistency within our product, speed up our creative process and simplify the dialogue between designers and developers. <br>
+      The iAdvize design system kit is also a way to onboard new designers and developers by giving them all the tools they need to grow and create. <br>
+      Kilt is a living style guide, like us, it'll adapt, learn and change.</h5>
+
+    <div class="visual right ">
+      <div class="card big right">
+        <h4>Visuals for an enhanced user experience</h4>
+        <p>All the colors, buttons, fonts and illustrations we are using are here to improve our product and must enhance the user experience.</p>
+        <a href="/visual">Find out more</a>
+      </div>
+    </div>
+    <div class="tone left ">
+        <div class="card small left">
+          <h4>A specific tone for specific users</h4>
+          <p>Our product supports our users throughout the day. And to enhance this relationship we must have a consistent tone.</p>
+          <!-- <a href="/language">Find out more</a> -->
+        </div>
+      </div>
+      <div class="method right ">
+          <div class="card small right">
+            <h4>User-centered methods</h4>
+            <p>Our job is to improve the daily life of each user, whoever they are. Each decision, each feature must be thought for all our users.</p>
+            <a href="/layout">Find out more</a>
+          </div>
+        </div>
+        <div class="component left ">
+            <div class="card big left">
+              <h4>Use &amp; re-use our components</h4>
+              <p>To be consistent across our product, we’re working to keep the same elements. It helps build our users’ confidence in the platform.</p>
+              <!-- <a href="selection-box.html">Find out more</a> -->
+            </div>
+          </div>
+          <div class="illustration right ">
+            <div class="card big right">
+              <h4>Illustrations to evoke emotions</h4>
+              <p>To have a fun and enjoyable experience, we punctuate our product with illustrations.</p>
+              <a href="/illustrations">Find out more</a>
+            </div>
+        </div>
+        <div class="ressources left ">
+            <div class="card small left">
+              <h4>Take a look at our resources</h4>
+              <p>To work hand in hand with the product managers, developers and all the company we've developed and built tools. Take a look at them!</p>
+              <a href="/ressources">Find out more</a>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+  </div>
+  <div class="white">
+        <div class="dribbble">
+          <h4>Our latest Dribbble shots</h4>
+          <ul class="members"></ul>
+          <div class="clearfix"></div>
+          <ul class="shots"></ul>
+        </div>
+  </div>
+  
+  <div class="clearfix"></div>
+  
+  <div class="footer">
+    <div class="main-content-homepage">
+      <ul>
+        <li>©2010-2017 iAdvize</li>
+        <li><a href="#">Discover iAdvize</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<script type="text/javascript">
+  $.jribbble.teams('iadvize').shots({per_page: 4}).then(function(res) {
+  var html = [];
+  
+  res.forEach(function(shot) {
+    html.push('<li class="shots--shot">');
+    html.push('<a href="' + shot.html_url + '" target="_blank">');
+    html.push('<img src="' + shot.images.normal + '"/>');
+    html.push(shot.title + '</a></li>');
+  });
+  $('.shots').html(html.join(''));
+
+  $.jribbble.teams('iadvize').members().then(function(res) {
+  var html = [];
+  
+  res.forEach(function(member) {
+    html.push('<li>');
+    html.push('<a class="user-link" href="' + member.html_url + '" target="_blank">');
+    html.push('<img class="avatar" src="' + member.avatar_url + '">');
+    html.push('</a>');
+    html.push('</li>');
+  });
+  
+  $('.section-title').append(' <b>' + res.length + '</b>');
+  $('.members').html(html.join(''));
+});
+});
+</script>
+</body>
+</html>

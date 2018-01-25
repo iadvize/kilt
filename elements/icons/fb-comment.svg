@@ -1,0 +1,14 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>fb-comment</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-99 -2)">
+<g id="fb-comment">
+<g id="fb-comment">
+<use xlink:href="#path0_fill" transform="translate(99 2)" fill="#707689"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 8.88178e-16 0L 23 0L 23 18L 12.133 18L 5 24L 5.041 18L 0 18L 0 0L 8.88178e-16 0Z"/>
+</defs>
+</svg>

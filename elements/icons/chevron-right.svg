@@ -1,0 +1,14 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>chevron-right</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-163 125)">
+<g id="chevron-right">
+<g id="chevron-right">
+<use xlink:href="#path0_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 168.799 -101.801)" fill="#707689"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 10.9988 9.35632L 1.80926 0.288206C 1.41799 -0.0978872 0.788445 -0.0957968 0.399758 0.29289L 0.292885 0.399763C -0.0992199 0.791876 -0.0973889 1.42818 0.296975 1.81804L 10.995 12.3935L 10.995 12.401L 10.9988 12.3973L 11.0025 12.401L 11.0025 12.3935L 21.7005 1.81804C 22.0949 1.42818 22.0967 0.791876 21.7046 0.399763L 21.5978 0.29289C 21.2091 -0.0957968 20.5795 -0.0978872 20.1883 0.288206L 10.9988 9.35632Z"/>
+</defs>
+</svg>

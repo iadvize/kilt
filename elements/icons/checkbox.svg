@@ -1,0 +1,16 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>checkbox</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(248 -181)">
+<g id="checkbox">
+<g id="checkbox">
+<use xlink:href="#path0_fill" transform="translate(-244 185)" fill="#707689"/>
+<use xlink:href="#path1_fill" transform="translate(-244 185)" fill="#707689"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 2 3C 2 2.44771 2.44771 2 3 2L 13 2L 13 0L 3 0C 1.34314 0 0 1.34314 0 3L 0 13C 0 14.6569 1.34314 16 3 16L 13 16C 14.6569 16 16 14.6569 16 13L 16 7L 14 7L 14 13C 14 13.5523 13.5523 14 13 14L 3 14C 2.44771 14 2 13.5523 2 13L 2 3Z"/>
+<path id="path1_fill" d="M 15.716 3.6981C 16.1016 3.30266 16.0935 2.66956 15.6981 2.284C 15.3027 1.89845 14.6696 1.90646 14.284 2.3019L 7.22337 9.54358L 4.73804 6.82523C 4.36537 6.41763 3.73283 6.38931 3.32524 6.76198C 2.91763 7.13464 2.88931 7.76717 3.26198 8.17477L 6.46198 11.6748C 6.64766 11.8779 6.90881 11.9955 7.18396 11.9999C 7.45911 12.0043 7.72391 11.8951 7.916 11.6981L 15.716 3.6981Z"/>
+</defs>
+</svg>

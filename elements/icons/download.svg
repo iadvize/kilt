@@ -1,0 +1,14 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>download</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(189 93)">
+<g id="download">
+<g id="download">
+<use xlink:href="#path0_fill" transform="translate(-185 -91.9141)" fill="#707689"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 13 9C 13.3905 9.39046 13.3905 10.0235 13 10.414L 8 15.414L 3 10.414C 2.60953 10.0235 2.60953 9.39046 3 9C 3.39047 8.60954 4.02353 8.60953 4.414 8.99999L 7 11.586L 7 0.999992C 7 0.447708 7.44771 0 8 0C 8.55228 0 9 0.447708 9 0.999992L 9 11.586L 11.586 9C 11.9765 8.60953 12.6095 8.60954 13 9ZM 14 20L 14 18L 16 18L 16 20C 16 21.102 15.104 22 14 22L 2 22C 0.895996 22 0 21.102 0 20L 0 18L 2 18L 2 20L 14 20Z"/>
+</defs>
+</svg>

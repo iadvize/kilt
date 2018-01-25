@@ -1,0 +1,14 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>fixed-button</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-67 93)">
+<g id="fixed-button">
+<g id="fixed-button">
+<use xlink:href="#path0_fill" transform="translate(67 -86)" fill="#707689"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 2 0C 0.895432 0 0 0.895432 0 2L 0 8C 0 9.10457 0.895432 10 2 10L 10 10C 11.1046 10 12 9.10457 12 8L 12 2C 12 0.895432 11.1046 0 10 0L 2 0ZM 11 2L 1 2L 1 4L 11 4L 11 2ZM 1 5L 8 5L 8 7L 1 7L 1 5ZM 17 4C 17 2.89543 17.8954 2 19 2L 22 2C 23.1046 2 24 2.89543 24 4C 24 5.10457 23.1046 6 22 6L 19 6C 17.8954 6 17 5.10457 17 4ZM 19 3L 22 3L 22 5L 19 5L 19 3Z"/>
+</defs>
+</svg>

@@ -1,0 +1,16 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>welcome</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(282 -181)" figma:type="canvas">
+<g id="welcome" figma:type="frame">
+<g id="welcome" figma:type="vector">
+<use xlink:href="#path0_fill" transform="translate(-280.001 182.998)"/>
+<use xlink:href="#path1_fill" transform="translate(-280.001 182.998)"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 8.832 14.446C 9.03699 14.752 9.056 15.147 8.88199 15.472C 8.70801 15.797 8.37 16 8.00101 16L 4.00101 16C 3.63101 16 3.293 15.797 3.11801 15.471C 2.944 15.146 2.96301 14.752 3.168 14.445L 4.17599 12.933C 2.552 11.653 0 9.146 0 6C 0 2.69099 2.69101 0 6 0C 9.30899 0 12 2.69099 12 6C 12 9.146 9.44901 11.653 7.82401 12.934L 8.832 14.446ZM 2.00101 6L 4.00101 6L 4.00101 5C 4.00101 4.44901 4.45001 4 5.00101 4L 6.00101 4L 6.00101 2L 5.00101 2C 3.34698 2 2.00101 3.34599 2.00101 5L 2.00101 6Z"/>
+<path id="path1_fill" d="M 11 16C 11 13.795 12.795 12 15 12C 19.513 12 20 14.797 20 16L 20 19C 20 19.5523 19.5523 20 19 20C 18.4477 20 18 19.5523 18 19L 18 16C 18 15.453 18 14 15 14C 13.897 14 13 14.896 13 16C 13 18.206 11.205 20 9 20C 7.14301 20 5.591 18.721 5.14301 17.002L 7.27899 17.002C 7.62701 17.596 8.26401 18 9 18C 10.104 18 11 17.103 11 16Z"/>
+</defs>
+</svg>

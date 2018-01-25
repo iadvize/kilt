@@ -1,0 +1,14 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>trash</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(317 -3)">
+<g id="trash">
+<g id="trash">
+<use xlink:href="#path0_fill" transform="translate(-315 4)" fill="#707689"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 13.8955 0L 13.8955 2.31475L 20.3432 2.31475C 20.6194 2.31475 20.8432 2.53861 20.8432 2.81475L 20.8432 4.13066C 20.8432 4.40681 20.6194 4.63066 20.3432 4.63066L 0.5 4.63066C 0.223846 4.63066 0 4.40681 0 4.13066L 0 2.81475C 0 2.53861 0.223846 2.31475 0.5 2.31475L 6.94772 2.31475L 6.94772 0L 13.8955 0ZM 2.31592 19.6841L 2.31592 5.78862L 18.5273 5.78862L 18.5273 19.6841C 18.5273 20.9602 17.4886 22 16.2114 22L 4.63184 22C 3.35458 22 2.31592 20.9602 2.31592 19.6841Z"/>
+</defs>
+</svg>

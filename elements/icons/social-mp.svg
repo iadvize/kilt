@@ -1,0 +1,14 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>social-mp</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-131 -35)">
+<g id="social-mp">
+<g id="social-mp">
+<use xlink:href="#path0_fill" transform="translate(131 39)" fill="#707689"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 21.6 1.06581e-15L 2.4 1.06581e-15C 1.0764 1.06581e-15 0 1.0764 0 2.4L 0 13.2C 0 14.5236 1.0764 15.6 2.4 15.6L 21.6 15.6C 22.9236 15.6 24 14.5236 24 13.2L 24 2.4C 24 1.0764 22.9236 1.06581e-15 21.6 1.06581e-15ZM 19.3356 2.4L 12 6.984L 4.6644 2.4L 19.3356 2.4ZM 2.4 13.2L 2.4 3.8148L 11.364 9.4176C 11.5584 9.5388 11.7792 9.6 12 9.6C 12.2208 9.6 12.4416 9.5388 12.636 9.4176L 21.6 3.8136L 21.6012 13.2L 2.4 13.2Z"/>
+</defs>
+</svg>

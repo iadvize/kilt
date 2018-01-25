@@ -1,0 +1,14 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>caddy</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-227 -35)">
+<g id="caddy">
+<g id="caddy">
+<use xlink:href="#path0_fill" transform="translate(229 37)" fill="#707689"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 4 0C 4.466 0 4.869 0.321999 4.97501 0.775002L 5.94901 5L 19 5C 19.309 5 19.599 5.142 19.788 5.385C 19.977 5.627 20.045 5.945 19.971 6.243L 17.971 14.243C 17.859 14.688 17.459 15 17 15L 7 15C 6.534 15 6.131 14.679 6.02499 14.225L 3.205 2L 1 2C 0.447708 2 0 1.55228 0 1C 0 0.447716 0.447708 0 1 0L 4 0ZM 7.795 13L 16.219 13L 17.719 7L 6.411 7L 7.795 13ZM 16 20C 14.8954 20 14 19.1046 14 18C 14 16.8954 14.8954 16 16 16C 17.1046 16 18 16.8954 18 18C 18 19.1046 17.1046 20 16 20ZM 6 18C 6 19.1046 6.89543 20 8 20C 9.10457 20 10 19.1046 10 18C 10 16.8954 9.10457 16 8 16C 6.89543 16 6 16.8954 6 18Z"/>
+</defs>
+</svg>

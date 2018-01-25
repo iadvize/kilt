@@ -1,0 +1,14 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>exclamation_circle</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(61 93)">
+<g id="exclamation_circle">
+<g id="exclamation_circle">
+<use xlink:href="#path0_fill" transform="translate(-60 -92)" fill="#707689"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 11 22C 4.93533 22 0 17.0659 0 11C 0 4.93411 4.93533 0 11 0C 17.0647 0 22 4.93411 22 11C 22 17.0659 17.0647 22 11 22ZM 11 2.44444C 6.28222 2.44444 2.44444 6.28222 2.44444 11C 2.44444 15.7178 6.28222 19.5556 11 19.5556C 15.7178 19.5556 19.5556 15.7178 19.5556 11C 19.5556 6.28222 15.7178 2.44444 11 2.44444ZM 11 4C 11.5523 4 12 4.44772 12 5L 12 12.5C 12 13.0523 11.5523 13.5 11 13.5C 10.4477 13.5 10 13.0523 10 12.5L 10 5C 10 4.44772 10.4477 4 11 4ZM 10.996 17C 11.5483 17 11.996 16.5523 11.996 16C 11.996 15.4477 11.5483 15 10.996 15C 10.4437 15 9.996 15.4477 9.996 16C 9.996 16.5523 10.4437 17 10.996 17Z"/>
+</defs>
+</svg>

@@ -1,0 +1,18 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>reporting</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(285 125)">
+<g id="reporting">
+<g id="reporting">
+<use xlink:href="#path0_fill" transform="translate(-285 -125)" fill="#707689"/>
+<use xlink:href="#path1_fill" transform="translate(-285 -125)" fill="#707689"/>
+<use xlink:href="#path2_fill" transform="translate(-285 -125)" fill="#707689"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 20 0C 18.8954 0 18 0.895432 18 2L 18 22C 18 23.1046 18.8954 24 20 24L 21 24C 22.1046 24 23 23.1046 23 22L 23 2C 23 0.895432 22.1046 0 21 0L 20 0Z"/>
+<path id="path1_fill" d="M 9 8C 9 6.89543 9.89542 6 11 6L 12 6C 13.1046 6 14 6.89543 14 8L 14 22C 14 23.1046 13.1046 24 12 24L 11 24C 9.89542 24 9 23.1046 9 22L 9 8Z"/>
+<path id="path2_fill" d="M 0 15C 0 13.8954 0.895416 13 2 13L 3 13C 4.10458 13 5 13.8954 5 15L 5 22C 5 23.1046 4.10458 24 3 24L 2 24C 0.895416 24 0 23.1046 0 22L 0 15Z"/>
+</defs>
+</svg>

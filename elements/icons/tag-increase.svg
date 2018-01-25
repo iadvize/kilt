@@ -1,0 +1,14 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>tag-increase</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-130 29)">
+<g id="tag-increase">
+<g id="tag-increase">
+<use xlink:href="#path0_fill" transform="translate(130 -29)" fill="#707689"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 12 0L 5 0C 4.44701 0 4 0.447001 4 1L 4 8C 4 8.266 4.105 8.519 4.293 8.707L 15.293 19.707C 15.488 19.902 15.744 20 16 20C 16.256 20 16.512 19.902 16.707 19.707L 23.707 12.707C 24.098 12.316 24.098 11.684 23.707 11.293L 12.707 0.292999C 12.519 0.105 12.266 0 12 0ZM 11 5C 11 6.103 10.106 7 9 7C 7.896 7 7 6.103 7 5C 7 3.895 7.896 3 9 3C 10.106 3 11 3.895 11 5ZM 1 19C 0.447708 19 0 19.4477 0 20C 0 20.5523 0.447708 21 1 21L 3 21L 3 23C 3 23.5523 3.44771 24 4 24C 4.55228 24 5 23.5523 5 23L 5 21L 7 21C 7.55229 21 8 20.5523 8 20C 8 19.4477 7.55229 19 7 19L 5 19L 5 17C 5 16.4477 4.55229 16 4 16C 3.44772 16 3 16.4477 3 17L 3 19L 1 19Z"/>
+</defs>
+</svg>

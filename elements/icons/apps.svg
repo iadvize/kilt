@@ -1,0 +1,20 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>apps</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(253 125)">
+<g id="apps">
+<g id="apps">
+<use xlink:href="#path0_fill" transform="translate(-253 -125)" fill="#707689"/>
+<use xlink:href="#path1_fill" transform="translate(-253 -125)" fill="#707689"/>
+<use xlink:href="#path2_fill" transform="translate(-253 -125)" fill="#707689"/>
+<use xlink:href="#path3_fill" transform="translate(-253 -125)" fill="#707689"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 2 0C 0.895432 0 0 0.895432 0 2L 0 8C 0 9.10457 0.895432 10 2 10L 8 10C 9.10457 10 10 9.10457 10 8L 10 2C 10 0.895432 9.10457 0 8 0L 2 0Z"/>
+<path id="path1_fill" d="M 2 14C 0.895432 14 0 14.8954 0 16L 0 22C 0 23.1046 0.895432 24 2 24L 8 24C 9.10457 24 10 23.1046 10 22L 10 16C 10 14.8954 9.10457 14 8 14L 2 14Z"/>
+<path id="path2_fill" d="M 14 2C 14 0.895432 14.8954 0 16 0L 22 0C 23.1046 0 24 0.895432 24 2L 24 8C 24 9.10457 23.1046 10 22 10L 16 10C 14.8954 10 14 9.10457 14 8L 14 2Z"/>
+<path id="path3_fill" d="M 16 14C 14.8954 14 14 14.8954 14 16L 14 22C 14 23.1046 14.8954 24 16 24L 22 24C 23.1046 24 24 23.1046 24 22L 24 16C 24 14.8954 23.1046 14 22 14L 16 14Z"/>
+</defs>
+</svg>

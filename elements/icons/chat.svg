@@ -1,0 +1,14 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>chat</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-3 125)">
+<g id="chat">
+<g id="chat">
+<use xlink:href="#path0_fill" transform="translate(4 -125)" fill="#707689"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 2.90281 18.5365C 1.1004 16.5673 0 13.9452 0 11.0688C 0 4.95962 4.95962 0 11.0688 0C 17.1769 0 22.1365 4.95962 22.1365 11.0688C 22.1365 17.1769 17.1769 22.1365 11.0688 22.1365C 9.56643 22.1365 8.13363 21.8365 6.82682 21.2941L 3.44521 23.8105C 3.12481 24.0493 2.69041 24.0637 2.35441 23.8465C 2.01961 23.6293 1.85521 23.2261 1.94161 22.8361L 2.90281 18.5365Z"/>
+</defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>facebook-light</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-3 93)">
+<g id="facebook-light">
+<g id="facebook-light">
+<use xlink:href="#path0_fill" transform="translate(8.7685 -93)" fill="#707689"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 8.09 24L 8.09 13.052L 11.765 13.052L 12.315 8.786L 8.09 8.786L 8.09 6.062C 8.09 4.827 8.433 3.985 10.204 3.985L 12.463 3.984L 12.463 0.168C 12.072 0.116 10.731 0 9.171 0C 5.914 0 3.684 1.988 3.684 5.64L 3.684 8.786L 1.25885e-07 8.786L 1.25885e-07 13.052L 3.684 13.052L 3.684 24L 8.09 24Z"/>
+</defs>
+</svg>

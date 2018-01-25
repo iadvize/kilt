@@ -1,0 +1,14 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>mail</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-3 61)">
+<g id="mail">
+<g id="mail">
+<use xlink:href="#path0_fill" transform="translate(4 -56)" fill="#707689"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 20.8615 0.285999L 11 6.4053L 1.1385 0.285999C 1.4542 0.110001 1.8128 0 2.2 0L 19.8 0C 20.1872 0 20.5447 0.110001 20.8615 0.285999ZM 11 8.5011C 11.2013 8.5011 11.4026 8.445 11.5797 8.335L 21.9967 1.8703C 21.9967 1.87525 21.9975 1.8802 21.9984 1.88515C 21.9992 1.8901 22 1.89505 22 1.9L 22 11.8C 22 13.0122 21.0133 14 19.8 14L 2.2 14C 0.9867 14 0 13.0122 0 11.8L 0 1.9C 0 1.89573 0.000777245 1.8912 0.0015769 1.88654C 0.00242567 1.88159 0.00330019 1.8765 0.00330019 1.8714L 10.4203 8.3361C 10.5974 8.445 10.7987 8.5011 11 8.5011Z"/>
+</defs>
+</svg>

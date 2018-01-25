@@ -1,0 +1,22 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>center</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(124 -99)">
+<g id="center">
+<g id="center">
+<use xlink:href="#path0_fill" transform="translate(-121 101.999)" fill="#707689"/>
+<use xlink:href="#path1_fill" transform="translate(-121 101.999)" fill="#707689"/>
+<use xlink:href="#path2_fill" transform="translate(-121 101.999)" fill="#707689"/>
+<use xlink:href="#path3_fill" transform="translate(-121 101.999)" fill="#707689"/>
+<use xlink:href="#path4_fill" transform="translate(-121 101.999)" fill="#707689"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 1L 0 7L 2 7L 2 2L 7 2L 7 0L 1 0C 0.446999 0 0 0.447998 0 1Z"/>
+<path id="path1_fill" d="M 16 7L 16 2L 11 2L 11 0L 17 0C 17.553 0 18 0.447998 18 1L 18 7L 16 7Z"/>
+<path id="path2_fill" d="M 17 18L 11 18L 11 16L 16 16L 16 11L 18 11L 18 17C 18 17.553 17.553 18 17 18Z"/>
+<path id="path3_fill" d="M 7 18L 1 18C 0.446999 18 0 17.552 0 17L 0 11L 2 11L 2 16L 7 16L 7 18Z"/>
+<path id="path4_fill" fill-rule="evenodd" d="M 5 7.001C 5 6.44872 5.44772 6.001 6 6.001L 12 6.001C 12.5523 6.001 13 6.44872 13 7.001L 13 11.001C 13 11.5533 12.5523 12.001 12 12.001L 6 12.001C 5.44772 12.001 5 11.5533 5 11.001L 5 7.001ZM 7 10.001L 7 8.001L 11 8.001L 11 10.001L 7 10.001Z"/>
+</defs>
+</svg>

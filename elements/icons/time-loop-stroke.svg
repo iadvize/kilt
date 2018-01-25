@@ -1,0 +1,14 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>time-loop-stroke</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(285 -35)">
+<g id="time-loop-stroke">
+<g id="time-loop-stroke">
+<use xlink:href="#path0_fill" transform="translate(-284 36)" fill="#707689"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 11C 0 17.0659 4.93533 22 11 22C 17.0647 22 22 17.0659 22 11C 22 4.93411 17.0647 0 11 0C 4.93533 0 0 4.93411 0 11ZM 2.44444 11C 2.44444 6.28222 6.28223 2.44444 11 2.44444C 15.7178 2.44444 19.5556 6.28222 19.5556 11C 19.5556 15.7178 15.7178 19.5556 11 19.5556C 6.28223 19.5556 2.44444 15.7178 2.44444 11ZM 10.1359 11.8641L 13.8026 15.5308L 15.5308 13.8026L 12.2222 10.494L 12.2222 4.88889L 9.77777 4.88889L 9.77777 11C 9.77777 11.3239 9.90611 11.6343 10.1359 11.8641Z"/>
+</defs>
+</svg>

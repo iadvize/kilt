@@ -1,0 +1,14 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>device</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(61 -3)">
+<g id="device">
+<g id="device">
+<use xlink:href="#path0_fill" transform="translate(-56 3)" fill="#707689"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 2 0C 0.89543 0 0 0.895432 0 2L 0 18L 2 18L 2 4L 12 4L 12 18L 14 18L 14 2C 14 0.895432 13.1046 0 12 0L 2 0ZM 0 19L 2 19L 12 19L 14 19L 14 22C 14 23.1046 13.1046 24 12 24L 2 24C 0.89543 24 0 23.1046 0 22L 0 19ZM 7 22C 7.55228 22 8 21.5523 8 21C 8 20.4477 7.55228 20 7 20C 6.44772 20 6 20.4477 6 21C 6 21.5523 6.44772 22 7 22Z"/>
+</defs>
+</svg>

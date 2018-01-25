@@ -1,0 +1,14 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>feedback</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-35 93)">
+<g id="feedback">
+<g id="feedback">
+<use xlink:href="#path0_fill" transform="translate(38 -86.002)" fill="#707689"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 14 2C 13.6095 2.39047 13.6095 3.02353 14 3.414L 15.586 5L 2 5L 2 1C 2 0.447715 1.55228 0 1 0C 0.447715 0 0 0.447715 0 1L 0 5C 0 6.104 0.897 7 2 7L 15.586 7L 14 8.586C 13.6095 8.97646 13.6095 9.60954 14 10C 14.3905 10.3905 15.0235 10.3905 15.414 10L 19.414 6L 15.414 2C 15.0235 1.60953 14.3905 1.60953 14 2Z"/>
+</defs>
+</svg>

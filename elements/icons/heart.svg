@@ -1,0 +1,14 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>heart</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(125 -35)">
+<g id="heart">
+<g id="heart">
+<use xlink:href="#path0_fill" transform="translate(-124 37.0024)" fill="#707689"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 15.8889 -8.85857e-08C 13.9407 -8.85857e-08 12.1367 1.023 11 2.54222C 9.86333 1.023 8.05933 -8.85857e-08 6.11111 -8.85857e-08C 2.74144 -8.85857e-08 0 2.74145 0 6.11111C 0 12.8223 9.92933 19.1058 10.3534 19.3698C 10.5514 19.4932 10.7763 19.5556 11 19.5556C 11.2237 19.5556 11.4486 19.4932 11.6466 19.3698C 12.0707 19.1058 22 12.8223 22 6.11111C 22 2.74145 19.2586 -8.85857e-08 15.8889 -8.85857e-08Z"/>
+</defs>
+</svg>

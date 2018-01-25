@@ -1,0 +1,26 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>filters</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(93 -3)">
+<g id="filters">
+<g id="filters">
+<use xlink:href="#path0_fill" transform="translate(-91 5.999)" fill="#707689"/>
+<use xlink:href="#path1_fill" transform="translate(-91 5.999)" fill="#707689"/>
+<use xlink:href="#path2_fill" transform="translate(-91 5.999)" fill="#707689"/>
+<use xlink:href="#path3_fill" transform="translate(-91 5.999)" fill="#707689"/>
+<use xlink:href="#path4_fill" transform="translate(-91 5.999)" fill="#707689"/>
+<use xlink:href="#path5_fill" transform="translate(-91 5.999)" fill="#707689"/>
+<use xlink:href="#path6_fill" transform="translate(-91 5.999)" fill="#707689"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 20 3C 20 4.65685 18.6569 6 17 6C 15.3431 6 14 4.65685 14 3C 14 1.34315 15.3431 8.88178e-16 17 8.88178e-16C 18.6569 8.88178e-16 20 1.34315 20 3Z"/>
+<path id="path1_fill" d="M 12.5 3C 12.5 2.655 12.547 2.323 12.621 2L 1 2C 0.447716 2 0 2.44772 0 3C 0 3.55228 0.447716 4 1 4L 12.621 4C 12.547 3.677 12.5 3.345 12.5 3Z"/>
+<path id="path2_fill" d="M 12.5 15C 12.5 14.655 12.547 14.323 12.621 14L 1 14C 0.447716 14 0 14.4477 0 15C 0 15.5523 0.447716 16 1 16L 12.621 16C 12.547 15.677 12.5 15.345 12.5 15Z"/>
+<path id="path3_fill" d="M 2.621 8C 2.547 8.323 2.5 8.655 2.5 9C 2.5 9.345 2.547 9.677 2.621 10L 1 10C 0.447716 10 0 9.55228 0 9C 0 8.44772 0.447716 8 1 8L 2.621 8Z"/>
+<path id="path4_fill" d="M 11.379 8C 11.453 8.323 11.5 8.655 11.5 9C 11.5 9.345 11.453 9.677 11.379 10L 19 10C 19.5523 10 20 9.55228 20 9C 20 8.44771 19.5523 8 19 8L 11.379 8Z"/>
+<path id="path5_fill" d="M 7 12C 8.65685 12 10 10.6569 10 9C 10 7.34314 8.65685 6 7 6C 5.34315 6 4 7.34314 4 9C 4 10.6569 5.34315 12 7 12Z"/>
+<path id="path6_fill" d="M 20 15C 20 16.6569 18.6569 18 17 18C 15.3431 18 14 16.6569 14 15C 14 13.3431 15.3431 12 17 12C 18.6569 12 20 13.3431 20 15Z"/>
+</defs>
+</svg>

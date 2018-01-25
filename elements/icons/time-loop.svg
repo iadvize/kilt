@@ -1,0 +1,14 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>time-loop</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-227 29)">
+<g id="time-loop">
+<g id="time-loop">
+<use xlink:href="#path0_fill" transform="translate(228 -28)" fill="#707689"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 11 0C 4.93533 0 0 4.93533 0 11C 0 17.0647 4.93533 22 11 22C 17.0647 22 22 17.0647 22 11C 22 4.93533 17.0647 0 11 0ZM 13.8026 15.5296L 10.1359 11.8629C 9.90733 11.6343 9.77778 11.3239 9.77778 11L 9.77778 4.88889L 12.2222 4.88889L 12.2222 10.494L 15.5308 13.8026L 13.8026 15.5296Z"/>
+</defs>
+</svg>

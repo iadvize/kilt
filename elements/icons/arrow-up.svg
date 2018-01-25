@@ -1,0 +1,14 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>arrow-up</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(317 -35)">
+<g id="arrow-up">
+<g id="arrow-up">
+<use xlink:href="#path0_fill" transform="translate(-315.999 38)" fill="#707689"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 1.80925 12.1128L 10.9988 3.04468L 20.1883 12.1128C 20.5795 12.4989 21.2091 12.4968 21.5978 12.1081L 21.7046 12.0012C 22.0967 11.6091 22.0949 10.9728 21.7006 10.583L 11.0025 0.00743484L 11.0025 0L 10.9988 0.00371933L 10.995 0L 10.995 0.00743484L 0.296986 10.583C -0.0973927 10.9728 -0.0992237 11.6091 0.292897 12.0012L 0.399769 12.1081C 0.788441 12.4968 1.41799 12.4989 1.80925 12.1128ZM 11 7C 10.4477 7 9.99999 7.44772 9.99999 8L 9.99999 17C 9.99999 17.5523 10.4477 18 11 18C 11.5523 18 12 17.5523 12 17L 12 8C 12 7.44772 11.5523 7 11 7Z"/>
+</defs>
+</svg>
