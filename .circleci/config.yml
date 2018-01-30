@@ -1,0 +1,43 @@
+version: 2
+jobs:
+  branch:
+    docker:
+      - image: iadvize/builder:docker-17.06
+        auth:
+          username: $DOCKER_USERNAME
+          password: $DOCKER_PASSWORD
+    steps:
+        - checkout
+        - setup_remote_docker:
+            version: 17.06.0-ce
+        - run: docker login -u $DOCKER_USERNAME -p $DOCKER_PASSWORD
+        - run: docker build -t $CIRCLE_PROJECT_USERNAME/kilt:$CIRCLE_BRANCH$CIRCLE_TAG .
+        - run: docker push $CIRCLE_PROJECT_USERNAME/kilt:$CIRCLE_BRANCH$CIRCLE_TAG
+  master:
+      docker:
+        - image: iadvize/builder:docker-17.06
+          auth:
+            username: $DOCKER_USERNAME
+            password: $DOCKER_PASSWORD
+      steps:
+          - checkout
+          - setup_remote_docker:
+              version: 17.06.0-ce
+          - run: docker login -u $DOCKER_USERNAME -p $DOCKER_PASSWORD
+          - run: docker build -t $CIRCLE_PROJECT_USERNAME/kilt:latest .
+          - run: docker push $CIRCLE_PROJECT_USERNAME/kilt:latest
+
+workflows:
+  version: 2
+  build:
+    jobs:
+      - branch:
+          context: org-global
+          filters:
+            branches:
+              ignore: /^master$/
+      - master:
+          context: org-global
+          filters:
+            branches:
+              only: /^master$/

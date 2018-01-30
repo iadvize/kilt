@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  kilt:
+    build: .
+    image: iadvize/kilt:latest
+    ports:
+      - 80:80
+      - 9180:9180
+    volumes:
+      - ./public:/app
