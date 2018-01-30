@@ -1,0 +1,9 @@
+.DS_Store
+
+sftp-config.json
+.idea
+
+# Terraform - https://terraform.io/
+.terraform
+terraform.tfstate
+terraform.tfstate.backup
