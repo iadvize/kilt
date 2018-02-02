@@ -27,7 +27,6 @@ body{
   background-color: #EEEFF0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url('../elements/bottom.svg');
   position: relative
 }
 ::selection {
