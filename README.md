@@ -7,12 +7,12 @@ The iAdvize design system kit is also a way to onboard new designers and develop
 
 Kilt is a living style guide, like us, it'll adapt, learn and change.
 
-### Examples
+## Examples
 
-### Install
+## Install
 
-### Documentation
+## Documentation
 
-### Contribute
+## Contribute
 
 Look at contribution guidelines here : [CONTRIBUTING.md](CONTRIBUTING.md)
